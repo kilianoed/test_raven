@@ -5,3 +5,4 @@ This is an example repository for learning to use Git.
 It is built step by step following a tutorial.
 
 It is now on GitHub
+And public
